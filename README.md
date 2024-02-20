@@ -22,7 +22,6 @@ Column Description
 | total_kills | Total in-game kills by the player |
 | headshot_percentage | Headshot percentage of the player |
 | damage_per_round | Damage inflicted per round by the player |
-
 | grenade_dmg_per_round | Damage inflicted per round with grenade by the player |
 | maps_played | Total maps played by the player |
 | rounds_played | Total rounds played by the player |
