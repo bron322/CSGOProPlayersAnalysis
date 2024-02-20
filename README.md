@@ -10,17 +10,21 @@ https://www.kaggle.com/datasets/naumanaarif/csgo-pro-players-dataset
 
 Column Description
 ---------------------------
-1	player_id	Player's ID on HLTV
-2	nickname	In-game name of the player
-3	real_name	Name of the player
-4	age	Age of the player
-5	country	Country of the player
-6	current_team	Current team of the player
-7	teams	All teams of the player, including previous and current teams
-8	total_kills	Total in-game kills by the player
-9	total_deaths	Total in-game deaths of the player
-10	headshot_percentage	Headshot percentage of the player
-11	damage_per_round	Damage inflicted per round by the player
+| Column |                                                              Description                                                             |
+| :-: | :------------------------------------------------------------------------------------------------------------------------------------: |
+| player_id | Player's ID on HLTV |
+| nickname | In-game name of the player |
+| real_name | Name of the player |
+| age | Age of the player |
+| country | Country of the player |
+| current_team | Current team of the player |
+| teams | All teams of the player, including previous and current teams |
+| total_kills | Total in-game kills by the player |
+| headshot_percentage | Headshot percentage of the player |
+| damage_per_round | Damage inflicted per round by the player |
+
+	
+11		
 12	grenade_dmg_per_round	Damage inflicted per round with grenade by the player
 13	maps_played	Total maps played by the player
 14	rounds_played	Total rounds played by the player
