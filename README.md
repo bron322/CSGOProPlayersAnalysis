@@ -7,3 +7,9 @@ Given a dataset containing detailed statistics of CS:GO professional players acr
 Dataset Source
 ---------------------------
 https://www.hltv.org/results
+
+Contribution
+---------------------------
+- [Lim Jing Jie](https://github.com/bron322)
+- [Ng Yuen Herng](https://github.com/ngyh6726)
+- [Prakritipong Phuvajakrt](https://github.com/Phuvj)
