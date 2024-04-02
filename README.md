@@ -6,4 +6,4 @@ Given a dataset containing detailed statistics of CS:GO professional players acr
 
 Dataset Source
 ---------------------------
-[HLTV](https://www.hltv.org/results)
+https://www.hltv.org/results
