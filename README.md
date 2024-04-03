@@ -8,7 +8,7 @@ Given a dataset containing detailed statistics of CS:GO professional players acr
 
 Dataset Source
 ---------------------------
-https://www.hltv.org/results
+https://www.hltv.org/results <br>
 https://www.hltv.org/stats/teams?startDate=2019-01-01&endDate=2019-12-31&matchType=Majors
 
 Contribution
